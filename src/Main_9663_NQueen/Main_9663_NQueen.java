@@ -1,3 +1,5 @@
+package Main_9663_NQueen;
+
 import java.util.Scanner;
 
 public class Main_9663_NQueen {

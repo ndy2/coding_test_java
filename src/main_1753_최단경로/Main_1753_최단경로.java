@@ -1,3 +1,5 @@
+package main_1753_최단경로;
+
 import java.io.*;
 import java.util.*;
 
@@ -18,7 +20,7 @@ public class Main_1753_최단경로 {
 
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-    private static final int INF = 100_000_000;
+    private static final  int INF = 100_000_000;
 
     static int v, e, k;
     static List<Node>[] list;
@@ -34,11 +36,11 @@ public class Main_1753_최단경로 {
 
         Arrays.fill(dist,INF);
 
-        for (int v = 1; v <= v; v++) {
+        for (int v = 1; v <= Main_1753_최단경로.v; v++) {
             list[v] = new ArrayList<>();
         }
 
-        for (int e = 0; e < e; e++) {
+        for (int e = 0; e < Main_1753_최단경로.e; e++) {
             st = new StringTokenizer(br.readLine());
             int start = Integer.parseInt(st.nextToken());
             int end = Integer.parseInt(st.nextToken());
@@ -70,7 +72,7 @@ public class Main_1753_최단경로 {
             Node curNode = queue.poll();
             int cur = curNode.end;
 
-            if(check[cur]) continue;
+            if(check[cur]==true) continue;
             check[cur] = true;
 
             for (Node node : list[cur]) {
