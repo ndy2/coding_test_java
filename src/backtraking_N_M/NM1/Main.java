@@ -1,8 +1,8 @@
-package backtraking_N_M;
+package backtraking_N_M.NM1;
 
 import java.util.Scanner;
 
-public class NM_1 {
+public class Main {
 
     static int N,M;
     static boolean[] visited;
