@@ -1,4 +1,4 @@
-package Main_1759_암호만들기;
+package main_1759_암호만들기;
 
 import java.io.*;
 import java.util.ArrayList;

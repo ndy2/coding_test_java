@@ -1,4 +1,4 @@
-package Main_9663_NQueen;
+package main_9663_NQueen;
 
 import java.util.Scanner;
 
