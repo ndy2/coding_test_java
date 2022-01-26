@@ -1,0 +1,23 @@
+https://www.acmicpc.net/problem/9207  O
+https://www.acmicpc.net/problem/6987
+https://www.acmicpc.net/problem/6593  O
+https://www.acmicpc.net/problem/2666
+https://www.acmicpc.net/problem/2636  X
+https://www.acmicpc.net/problem/2589  O
+https://www.acmicpc.net/problem/3055  O
+https://www.acmicpc.net/problem/2580
+https://www.acmicpc.net/problem/2457
+https://www.acmicpc.net/problem/10711
+https://www.acmicpc.net/problem/8980
+https://www.acmicpc.net/problem/3078
+https://www.acmicpc.net/problem/2571
+https://www.acmicpc.net/problem/2437
+https://www.acmicpc.net/problem/3967
+https://www.acmicpc.net/problem/3190  O
+
+ㅁㅁㅇㅇ rotate 
+ㅁㅁㅇㅇ 
+ㅇㅇㅁㅁ
+ㅇㅇㅁㅁ
+
+abcdd -> 12개
