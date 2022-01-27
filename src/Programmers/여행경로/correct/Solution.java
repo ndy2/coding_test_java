@@ -1,3 +1,5 @@
+package Programmers.여행경로.correct;
+
 import java.util.*;
 
 class Ticket{
